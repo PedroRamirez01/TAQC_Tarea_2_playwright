@@ -1,7 +1,7 @@
 import time
 from loginProcess import LoginProcess
-from AddToCart import AddToCart
-from SelectProduct import SelectProduct
+from addToCart import AddToCart
+from selectProduct import SelectProduct
 from playwright.sync_api import sync_playwright
 
 URL = "https://www.saucedemo.com/"
